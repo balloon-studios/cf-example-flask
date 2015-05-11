@@ -1,0 +1,6 @@
+---
+applications:
+# Give your app a name - make it globally unique (i.e. not "www" or "app" or "test")!
+- name:
+  instances: 1
+  memory: 100M
